@@ -25,5 +25,5 @@ After running each model, you will get a saved model called **__GAN_g.pth**
 
 ## Generate Images
 After training the models, you can run the **Generate_Images.py** to test how the model performs.
-In this code, you need to change the **.pth** file name at the bottom which included in the load pretrained model part.
+In this code, you need to change the **__GAN_g.pth** file name at the bottom which included in the load pretrained model part.
 
