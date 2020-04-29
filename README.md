@@ -19,3 +19,9 @@ The group presentation slides in pdf.
 
 ### Code
 The code used for data download, preprocessing, modeling and evaluation (generate images). Please check code folder for detailed instruction.
+
+### Sample Images
+The generaeted sample images using different training models.
+
+### models
+The pretained models that can generate anime face images.
