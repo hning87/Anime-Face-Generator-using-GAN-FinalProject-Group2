@@ -24,7 +24,7 @@ For running WGAN-GP, please use the code **WGANGP.py**
 After running each model, you will get a saved model called **__GAN_g.pth**
 
 ## Generate Images
-After training the models, you can run the **Generate_Images.py** to test how the model performs.
+After training the models, you can run the **Generate_Images.py** to test how the model performs.  
 In this code, you need to change the **__GAN_g.pth** file name at the bottom which included in the load pretrained model part.  
 And also you can change the file name **___.jpg** at the bottom included in the save image part.
 
