@@ -1,4 +1,4 @@
-# Final-Project-Group2
+# Code Instruction
 
 ## Download Data
 To download data correctly, please run the code “Download_from_GoogleDrive.py” first.
