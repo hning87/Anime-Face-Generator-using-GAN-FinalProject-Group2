@@ -4,9 +4,9 @@ Team member: Chen Chen, Hao Ning, Hungchun Lin
 
 ## Project Description
 Create a generator that produces various types of anime faces
-Link to the data:
-https://drive.google.com/open?id=11j_HC40a2t2q9ZtsLp4OPwF2xzhJCG1i
-https://drive.google.com/file/d/1tpW7ZVNosXsIAWu8-f5EpwtF3ls3pb79
+Link to the data:   
+https://drive.google.com/open?id=11j_HC40a2t2q9ZtsLp4OPwF2xzhJCG1i   
+https://drive.google.com/file/d/1tpW7ZVNosXsIAWu8-f5EpwtF3ls3pb79   
 
 ## Project Structure
 This section describes the structure of the repoistory.
