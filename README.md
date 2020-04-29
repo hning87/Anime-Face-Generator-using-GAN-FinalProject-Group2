@@ -18,13 +18,12 @@ The group proposal in pdf.
 The final report for our project in pdf.
 
 ### Final Group Presentation
-The group presentation slides in pdf. 
+The group presentation slides in pdf.  
 
 ### Code
-The code used for data download, preprocessing, modeling and evaluation (generate images). Please check code folder for detailed instruction.
+The code used for data download, preprocessing, modeling and evaluation (generate images). Please check code folder for detailed instruction.   
+There are also pretained models that can generate anime face images.   
 
 ### Sample Images
 The generated sample images using different training models.
 
-### models
-The pretained models that can generate anime face images.
