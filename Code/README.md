@@ -8,8 +8,8 @@ https://drive.google.com/file/d/1tpW7ZVNosXsIAWu8-f5EpwtF3ls3pb79
 provided by National Taiwan University.
 
 ## Data Preprocessing
-The dataset originally contains images and tags.
-For collecting the images data, please run the code **preprocessing.py** to get the completely dataset of the images.
+The dataset originally contains images and tags.  
+For collecting the images data, please run the code **preprocessing.py** to get the completely dataset of the images.  
 After run this code, you will get a images file called **imgs.npy**
 
 ## DCGAN
