@@ -15,7 +15,7 @@ This section describes the structure of the repoistory.
 The group proposal in pdf. 
 
 ### Final Group Project Report
-The final report for our project.
+The final report for our project in pdf.
 
 ### Final Group Presentation
 The group presentation slides in pdf. 
