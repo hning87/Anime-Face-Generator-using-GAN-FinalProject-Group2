@@ -72,7 +72,7 @@ G = Generator(z_dim)
 # G.load_state_dict(torch.load(os.path.join(DATA_DIR, './models/WGAN_G.pth')))
 
 # if you clone the github run below, otherwise, change the path
-G.load_state_dict(torch.load(os.path.join(DATA_DIR, 'WGAN_G.pth')))
+G.load_state_dict(torch.load(os.path.join(DATA_DIR, 'Anime-Face-Generator-using-GAN-FinalProject-Group2/Code/WGAN_G.pth')))
 G.eval()
 G.cuda()
 
