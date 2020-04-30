@@ -46,8 +46,8 @@ if __name__ == "__main__":
     download_file_from_google_drive(file_id, destination)
 
 
-download_file_from_google_drive('11j_HC40a2t2q9ZtsLp4OPwF2xzhJCG1i', os.path.join(DIR, 'faces.tar.gz'))
-download_file_from_google_drive('1tpW7ZVNosXsIAWu8-f5EpwtF3ls3pb79', os.path.join(DIR, 'extra_data.zip'))
+download_file_from_google_drive('11j_HC40a2t2q9ZtsLp4OPwF2xzhJCG1i', 'faces.tar.gz')
+download_file_from_google_drive('1tpW7ZVNosXsIAWu8-f5EpwtF3ls3pb79', 'extra_data.zip')
 
 filename = "faces.tar.gz"
 tf = tarfile.open(filename)
