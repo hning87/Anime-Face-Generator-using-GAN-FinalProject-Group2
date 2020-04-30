@@ -61,7 +61,7 @@ G = Generator(NOISE)
 #G.load_state_dict(torch.load(os.path.join(DATA_DIR, './WGANGP_g_1D_5L.pth')))
 
 # if you clone the github run below, otherwise, change the path
-G.load_state_dict(torch.load(os.path.join(DATA_DIR, 'WGANGP_g_1D_5L.pth')))
+G.load_state_dict(torch.load(os.path.join(DATA_DIR, 'Anime-Face-Generator-using-GAN-FinalProject-Group2/Code/WGANGP_g_1D_5L.pth')))
 G.eval()
 G.cuda()
 
