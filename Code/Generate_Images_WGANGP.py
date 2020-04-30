@@ -57,7 +57,11 @@ class Generator(nn.Module):
 
 ## load pretrained model
 G = Generator(NOISE)
-G.load_state_dict(torch.load(os.path.join(DATA_DIR, './WGANGP_g_1D_5L.pth')))
+# below is the code for original generate images in my terminal
+#G.load_state_dict(torch.load(os.path.join(DATA_DIR, './WGANGP_g_1D_5L.pth')))
+
+# if you clone the github run below, otherwise, change the path
+G.load_state_dict(torch.load(os.path.join(DATA_DIR, 'WGANGP_g_1D_5L.pth')))
 G.eval()
 G.cuda()
 
@@ -76,5 +80,5 @@ plt.show()
 # # save image
 save_dir = os.path.join(DATA_DIR, 'saved_images')  # u can set up your directory here
 os.makedirs(save_dir, exist_ok=True)
-filename = os.path.join(save_dir, f'WGAN_images.jpg')
+filename = os.path.join(save_dir, f'WGANGP_images.jpg')
 torchvision.utils.save_image(imgs_sample, filename, nrow=n_row)
